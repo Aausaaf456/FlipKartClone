@@ -21,5 +21,5 @@ cd FlipKartClone
 npm install.
 npm run dev.
 
-##Explore it from this link:
+## Explore it from this link:
    1) https://merry-pothos-8fd21d.netlify.app/
