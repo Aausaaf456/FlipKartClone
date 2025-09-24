@@ -8,7 +8,7 @@ A responsive Flipkart clone built with React, Vite, and TailwindCSS. This projec
 3)Footer: Flipkart-style footer with multiple sections: About, Help, Policy, Social Links, Office Address, and Payment Options.
 4)Interactive Elements: Hover effects, dropdowns, and drawer menus for enhanced user experience.
 
-## Teck Stacd:
+## Tech Stack:
 Frontend: React.js, Vite.js
 Styling: TailwindCSS, CSS, HTML
 Icons & UI: lucide-react (for icons like Cart, Chevron, Menu, X)
